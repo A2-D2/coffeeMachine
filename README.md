@@ -1,2 +1,2 @@
 # coffeeMachine
-A java coffee machine programme. Via Hyperskill
+A java coffee machine programme. via Hyperskill
